@@ -1,16 +1,15 @@
-# home_automation
+Home Automation System with Auto WiFi Connectivity and Mobile App Control
 
-A new Flutter project.
+This project is a home automation system that features:
 
-## Getting Started
+    🔌 Automatic WiFi Connectivity using a web-based portal (via WiFiManager), so there's no need to hardcode WiFi credentials. Users can easily connect the device to any network using their mobile browser.
 
-This project is a starting point for a Flutter application.
+    📱 Mobile App Integration (developed with Flutter) that allows users to:
 
-A few resources to get you started if this is your first Flutter project:
+        Toggle multiple switches (e.g., LED1, LED2, etc.)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+        View real-time status of each device
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+        Easily change IP settings without reinstalling or reprogramming
+
+This solution provides a seamless IoT-based smart home experience, where device setup and control are user-friendly, responsive, and flexible across different networks and devices.
